@@ -17,7 +17,7 @@ Sereinme
 
 ## 使用方法
 1. 打开Zotero。
-2. 进入工具->开发者->Run Javascript。
+2. 进入工具->开发者->Run Javascript，选择作为异步函数执行。
 3. 选择你想要复制URL的条目。
 4. 运行此脚本。
 5. 选中的条目的URL将被复制到剪贴板。
